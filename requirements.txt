@@ -1,0 +1,4 @@
+flask
+sentence-transformers
+torch
+pandas
